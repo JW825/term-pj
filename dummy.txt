@@ -1,1 +1,3 @@
-test file
+git checkout main
+git commit --allow-empty -m "Trigger GitHub Pages"
+git push origin main
